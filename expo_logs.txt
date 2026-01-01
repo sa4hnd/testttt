@@ -1,0 +1,24 @@
+=== Expo Dev Server Started: 2025-12-31T16:32:55.164Z ===
+
+env: load .env.local
+env: export EXPO_PUBLIC_PROJECT_ID EXPO_PUBLIC_SESSION_TOKEN
+Starting project at /vibe0
+Starting Metro Bundler
+Tunnel connected.
+Tunnel ready.
+The following packages should be updated for best compatibility with the installed expo version:
+  react-native@0.81.4 - expected version: 0.81.5
+Your project may not work correctly until you install the expected versions of the packages.
+Waiting on http://localhost:3000
+Logs for your project will appear below.
+Tunnel connected.
+iOS node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+iOS node_modules/expo-router/entry.js ▓▓░░░░░░░░░░░░░░ 14.3% ( 37/175)
+iOS node_modules/expo-router/entry.js ▓▓░░░░░░░░░░░░░░ 16.8% (159/388)
+iOS node_modules/expo-router/entry.js ▓▓▓▓▓░░░░░░░░░░░ 34.4% (346/590)
+iOS node_modules/expo-router/entry.js ▓▓▓▓▓▓░░░░░░░░░░ 41.9% (488/754)
+iOS node_modules/expo-router/entry.js ▓▓▓▓▓▓▓▓▓░░░░░░░ 58.1% (626/821)
+iOS node_modules/expo-router/entry.js ▓▓▓▓▓▓▓▓▓▓▓░░░░░ 74.9% (779/900)
+iOS node_modules/expo-router/entry.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 88.2% (876/933)
+iOS node_modules/expo-router/entry.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92.4% ( 991/1038)
+iOS Bundled 34829ms node_modules/expo-router/entry.js (1076 modules)
